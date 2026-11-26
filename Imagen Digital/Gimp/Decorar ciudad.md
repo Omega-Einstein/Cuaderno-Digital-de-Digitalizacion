@@ -5,5 +5,6 @@
 
 En esta prueba tenemiamos que usar la herramienta de clonado y perspectivas para decorar una calle.
 
-Con la herramienta de clonado he quitado una puerta y ventanas para limpiar una parez de objetos innecesario. 
+Con la herramienta de clonado he quitado una puerta y ventanas para limpiar una parez de objetos innecesario.
 
+Después de tener el plano limpio para editar, con la herramienta de perspectiva añadimos las imágenes que queramos añadir para decorarla.
